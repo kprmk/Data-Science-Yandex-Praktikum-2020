@@ -5,7 +5,7 @@
 
 Отчёты о проектах приведены в порядке выполнения, самый сложный (выпускной) - в конце.
 
-### Исследование надёжности заёмщиков ([html](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum/tree/master/reports/01.01-Credit-Scoring.html), [pdf](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum/tree/master/reports/01.01-Credit-Scoring.pdf))
+### Исследование надёжности заёмщиков (<a href="https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum/tree/master/reports/01.01-Credit-Scoring.html" title="html">html</a>, [pdf](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum/tree/master/reports/01.01-Credit-Scoring.pdf))
 Основной навык - предобработка данных. Заказчик - кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка - статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга - специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку (отчёт в формате [html](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum/tree/master/reports/01.01-Credit-Scoring.html), [pdf](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum/tree/master/reports/01.01-Credit-Scoring.pdf)).
 
 ### Выпускной проект
